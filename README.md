@@ -1,2 +1,14 @@
-# Auto_Network_Scanner
-Automated Network &amp; Website Scanner with PDF Report – A Python tool that scans networks, IP addresses, and websites to gather information such as open ports, running services, HTTP headers, and hostnames. The results are automatically compiled into a PDF report for easy documentation.Designed for educational and authorized penetration testing only.
+# 🔍 Automated Network & Website Scanner with PDF Report
+
+This is a Python-based tool that performs **network scanning**, **website scanning**, and **IP resolution**, then generates a **PDF report** automatically.
+
+## ✨ Features
+- Scan **IP addresses** and detect hostnames.
+- Perform **network scans** (open ports, services) using Nmap.
+- Analyze **website headers and status codes**.
+- Export results into a **professional PDF report**.
+- Modular design for easy extension (add vulnerability scans, etc.).
+
+---
+
+## 📂 Project Structure
